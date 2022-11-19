@@ -1,16 +1,31 @@
-# mobys_deneme
+# Gece Grubu - B Şubesi
 
-A new Flutter project.
+## Grup üyeleri
+- Anas Aljerf
+- Alper Turhan
+- Deniz Kalender
+- Doğukan Yılmaz
+- Enes Şahin
+- Esra Çelik
+- Kemal Özdemir
+- İbrahim Levend Atalan
+- Muhammet Can Görücü
+- Muhammet Furkan Akşit
+- Muhlis Bulus
+- Onurcan Güler
+- Oğuzhan Ay
+- Sena Atak
+- Serkan Memiş
+- Sueda Akın
+- Yusuf Eren Tek
+- Şehriban Gül Yıldırım
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Grup toplantılarımızdan bazı görüntüler:
+![görüntü](https://i.hizliresim.com/hktxsiw.PNG)
+![görüntü](https://i.hizliresim.com/gsg1tmh.PNG)
+![görüntü](https://i.hizliresim.com/ks195eb.PNG)
+![görüntü](https://i.hizliresim.com/sbyknyz.PNG)
+![görüntü](https://i.hizliresim.com/f6jjj5g.PNG)
+![görüntü](https://i.hizliresim.com/h5a7arx.PNG)
+![görüntü](https://i.hizliresim.com/7hh5cqb.PNG)
+![görüntü](https://i.hizliresim.com/2rxnyr8.PNG)
