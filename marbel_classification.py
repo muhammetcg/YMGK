@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 18 13:31:24 2022
-
-@author: Lenovo
-"""
 from __future__ import print_function, division
 import os
 import cv2
